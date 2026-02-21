@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Reason (2023 rearrange ver.)",
+  "base_artist": "玉置成実",
+  "createdAt": "2026-02-21T04:53:24.475520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Need No Reason",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/01_Don't_Need_No_Reason_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Got No Reason Now for Goin' Home",
+      "artist": "Gene Watson",
+      "has_synced": true,
+      "path": "select/02_Got_No_Reason_Now_for_Goin'_Home_Gene_Watson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Think of a Reason Later",
+      "artist": "Lee Ann Womack",
+      "has_synced": true,
+      "path": "select/03_I'll_Think_of_a_Reason_Later_Lee_Ann_Womack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Think Of A Reason Later (Album Version)",
+      "artist": "Lee Ann Womack",
+      "has_synced": true,
+      "path": "select/04_I'll_Think_Of_A_Reason_Later_(Album_Version)_Lee_Ann_Womack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Good Reason",
+      "artist": "Hunter Hayes",
+      "has_synced": true,
+      "path": "select/05_One_Good_Reason_Hunter_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reason For Leaving",
+      "artist": "Erin Kinsey",
+      "has_synced": true,
+      "path": "select/06_Reason_For_Leaving_Erin_Kinsey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Reason to Drink",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/07_Reason_to_Drink_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You're the Reason Our Kids Are Ugly",
+      "artist": "Loretta Lynn feat. Conway Twitty",
+      "has_synced": false,
+      "path": "select/08_You're_the_Reason_Our_Kids_Are_Ugly_Loretta_Lynn_feat._Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You're The Reason Our Kids Are Ugly (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/09_You're_The_Reason_Our_Kids_Are_Ugly_(Single_Version)_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "For No Reason",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/10_For_No_Reason_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "For No Reason (中文版)",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/11_For_No_Reason_(中文版)_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give Me A Reason",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/12_Give_Me_A_Reason_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give Me A Reason",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/13_Give_Me_A_Reason_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Impact Of Reason",
+      "artist": "Underoath",
+      "has_synced": false,
+      "path": "select/14_The_Impact_Of_Reason_Underoath.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Reason Why",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/15_The_Reason_Why_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rhyme Or Reason",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/16_Rhyme_Or_Reason_Eminem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Reason",
+      "artist": "玉置 成実",
+      "has_synced": false,
+      "path": "select/pl_01_Reason_玉置_成実.txt"
+    }
+  ]
+}
